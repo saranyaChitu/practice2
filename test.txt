@@ -1,0 +1,12 @@
+keep practice you get one day
+steps
+=====
+1. create a new empty repo in GitHub
+2. create a local folder with no files and copy the path.
+3. Go to CLI, and navigate to that path.
+4. use "git init" to initiate an empty git repo in that local folder.
+5. use "touch test.txt" to create a file in local folder.
+6. add the file to git using "git add <file name with extension>", example git add test.txt
+7. often check status using 'git status'
+8. commit using 'git commit -m "test comments"'
+9. push using git push -u origin master
